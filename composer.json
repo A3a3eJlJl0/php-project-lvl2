@@ -1,0 +1,19 @@
+{
+    "name": "hexlet/code",
+    "authors": [
+        {
+            "name": "Evgenii Afonchenko",
+            "email": "e.p.afonchenko@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "bin": "bin/gendiff",
+    "autoload": {
+        "files": [
+            "src/makeCLI.php"
+        ]
+    },
+    "require": {
+        "docopt/docopt": "^1.0"
+    }
+}
