@@ -10,7 +10,7 @@
     "bin": "bin/gendiff",
     "autoload": {
         "files": [
-            "src/makeCLI.php"
+            "src/gendiff.php"
         ]
     },
     "require": {
